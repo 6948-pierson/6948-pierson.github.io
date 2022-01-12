@@ -80,3 +80,9 @@ td, th {
 tr:nth-child(even) {
   background-color: #dddddd;
 }
+
+
+article {
+  padding: 50px;
+  size: 2000px;
+}
